@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rahulbammidi
 - 👀 I’m interested in Software Development and AI
 - 🌱 I’m currently learning Full Stack with MERN specialization
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rahul.bammidi00@gmail.com 
 
 <!---
